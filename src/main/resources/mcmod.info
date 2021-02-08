@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lumondemod",
+  "name": "Lumonde Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mkihr_ojisan"],
+  "credits": "",
+  "logoFile": "assets/icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
